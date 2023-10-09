@@ -1,0 +1,17 @@
+<layer>
+  <name>Amenaza por inundacion - Rural</name>
+  <id>LayerInfoImpl-3812b628:18ac7937ebb:-7fed</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1bf9c855:18ac7f0c604:-7ff7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3812b628:18ac7937ebb:-7fee</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-09-24 14:42:27.8 UTC</dateCreated>
+  <dateModified>2023-10-08 19:13:37.714 UTC</dateModified>
+</layer>

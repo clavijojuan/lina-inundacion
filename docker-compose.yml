@@ -1,0 +1,18 @@
+version: '3'
+services:
+    geoserver:
+        image: clavijojuan/lina-inundacion:v1
+        environment:
+            - CORS_ENABLED=true
+            - CORS_ALLOWED_METHODS=GET,POST,PUT,HEAD,OPTIONS
+        ports:
+            - "8080:8080"
+        volumes:
+            - ./data:/opt/geoserver_data/:Z
+    frontend:
+        build:
+            context: ./compiled_frontend
+        ports:
+            - "4200:80"
+        depends_on:
+            - geoserver

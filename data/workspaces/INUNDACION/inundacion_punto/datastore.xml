@@ -1,0 +1,15 @@
+<dataStore>
+  <id>DataStoreInfoImpl--2b879e15:18b15e4a073:-7ffc</id>
+  <name>inundacion_punto</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-3812b628:18ac7937ebb:-7ff8</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="namespace">http://localhost/inundacion</entry>
+    <entry key="url">file:/opt/geoserver_data/data/INUNDACION/inundacion_punto/</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2023-10-09 19:24:22.509 UTC</dateCreated>
+</dataStore>

@@ -1,0 +1,25 @@
+<dataStore>
+  <id>DataStoreInfoImpl-3812b628:18ac7937ebb:-7ff4</id>
+  <name>amenazas2</name>
+  <type>Directory of spatial files (shapefiles)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-3812b628:18ac7937ebb:-7ffc</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">UTF-8</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">GMT</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">http://localhost/amenazas2</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="skipScan">true</entry>
+    <entry key="url">file:AMENAZAS</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2023-09-24 14:29:46.461 UTC</dateCreated>
+  <dateModified>2023-09-24 14:29:47.13 UTC</dateModified>
+</dataStore>

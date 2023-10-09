@@ -1,0 +1,16 @@
+<layer>
+  <name>Barrios</name>
+  <id>LayerInfoImpl-3812b628:18ac7937ebb:-7fc8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--5baf1330:18ac790a661:-7ffe</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3812b628:18ac7937ebb:-7fc9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-09-24 15:27:20.636 UTC</dateCreated>
+</layer>

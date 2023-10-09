@@ -1,0 +1,17 @@
+<layer>
+  <name>Amenaza por movimiento de masa - Urbano</name>
+  <id>LayerInfoImpl-3812b628:18ac7937ebb:-7fe6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1bf9c855:18ac7f0c604:-7ff4</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3812b628:18ac7937ebb:-7fe7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-09-24 15:09:05.557 UTC</dateCreated>
+  <dateModified>2023-09-24 16:48:35.950 UTC</dateModified>
+</layer>

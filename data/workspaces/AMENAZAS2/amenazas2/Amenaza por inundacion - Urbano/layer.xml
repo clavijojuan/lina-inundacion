@@ -1,0 +1,17 @@
+<layer>
+  <name>Amenaza por inundacion - Urbano</name>
+  <id>LayerInfoImpl-3812b628:18ac7937ebb:-7fea</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1bf9c855:18ac7f0c604:-7ff6</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3812b628:18ac7937ebb:-7feb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-09-24 14:49:58.717 UTC</dateCreated>
+  <dateModified>2023-10-08 19:13:47.120 UTC</dateModified>
+</layer>

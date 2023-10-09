@@ -1,0 +1,17 @@
+<layer>
+  <name>Terreno rural</name>
+  <id>LayerInfoImpl-3812b628:18ac7937ebb:-7fb6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--429fd64c:18ac8193452:-7ff9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3812b628:18ac7937ebb:-7fb7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-09-24 15:31:31.121 UTC</dateCreated>
+  <dateModified>2023-09-24 17:05:31.5 UTC</dateModified>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>Cobertura clasificada</name>
+  <id>LayerInfoImpl-3812b628:18ac7937ebb:-7fe2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1bf9c855:18ac7f0c604:-7ff2</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3812b628:18ac7937ebb:-7fe3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-09-24 15:12:31.191 UTC</dateCreated>
+  <dateModified>2023-09-24 17:00:04.303 UTC</dateModified>
+</layer>

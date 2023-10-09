@@ -1,0 +1,17 @@
+<layer>
+  <name>Nomenclatura vial</name>
+  <id>LayerInfoImpl-3812b628:18ac7937ebb:-7fbe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6324d7a4:18b103c774e:-7ffa</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3812b628:18ac7937ebb:-7fbf</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-09-24 15:30:03.348 UTC</dateCreated>
+  <dateModified>2023-10-08 19:45:36.566 UTC</dateModified>
+</layer>

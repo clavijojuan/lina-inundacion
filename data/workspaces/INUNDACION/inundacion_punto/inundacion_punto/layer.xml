@@ -1,0 +1,22 @@
+<layer>
+  <name>inundacion_punto</name>
+  <id>LayerInfoImpl--2b879e15:18b15e4a073:-7ffa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--429fd64c:18ac8193452:-7fca</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--429fd64c:18ac8193452:-7fca</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2b879e15:18b15e4a073:-7ffb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-10-09 19:24:23.16 UTC</dateCreated>
+  <dateModified>2023-10-09 19:24:23.478 UTC</dateModified>
+</layer>

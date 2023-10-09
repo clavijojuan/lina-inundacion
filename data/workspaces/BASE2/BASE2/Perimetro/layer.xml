@@ -1,0 +1,17 @@
+<layer>
+  <name>Perimetro</name>
+  <id>LayerInfoImpl-3812b628:18ac7937ebb:-7fbc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--429fd64c:18ac8193452:-7ffb</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3812b628:18ac7937ebb:-7fbd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-09-24 15:30:29.58 UTC</dateCreated>
+  <dateModified>2023-09-24 17:05:17.106 UTC</dateModified>
+</layer>

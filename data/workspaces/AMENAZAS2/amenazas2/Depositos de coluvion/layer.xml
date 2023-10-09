@@ -1,0 +1,17 @@
+<layer>
+  <name>Depositos de coluvion</name>
+  <id>LayerInfoImpl-3812b628:18ac7937ebb:-7fe0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1bf9c855:18ac7f0c604:-7ff1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3812b628:18ac7937ebb:-7fe1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-09-24 15:15:40.779 UTC</dateCreated>
+  <dateModified>2023-09-24 17:01:23.123 UTC</dateModified>
+</layer>

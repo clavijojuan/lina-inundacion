@@ -1,0 +1,17 @@
+<layer>
+  <name>Flujo</name>
+  <id>LayerInfoImpl-3812b628:18ac7937ebb:-7fd8</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1bf9c855:18ac7f0c604:-7fee</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3812b628:18ac7937ebb:-7fd9</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-09-24 15:20:23.325 UTC</dateCreated>
+  <dateModified>2023-09-24 17:03:41.676 UTC</dateModified>
+</layer>

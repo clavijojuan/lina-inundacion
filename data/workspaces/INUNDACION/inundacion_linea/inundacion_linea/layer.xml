@@ -1,0 +1,22 @@
+<layer>
+  <name>inundacion_linea</name>
+  <id>LayerInfoImpl-5d1def70:18b15b6884a:-7fd7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--429fd64c:18ac8193452:-7fcc</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--429fd64c:18ac8193452:-7fcc</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-5d1def70:18b15b6884a:-7fd8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-10-09 19:13:59.641 UTC</dateCreated>
+  <dateModified>2023-10-09 19:13:59.876 UTC</dateModified>
+</layer>
